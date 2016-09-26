@@ -1,6 +1,8 @@
 # angular2-typescript2-webpack2
 
-This repo creates an advanced angular2 starter project written in TypeScript2 with basic OOB components. You can add your own components to suit your application needs. The production build is based on Webpack2 and utilizes minification, concatenation, compression and tree-shaking for maximum optimization.
+This repo creates an angular2 starter project written in TypeScript2 with basic OOB components. You can add your own components to suit your application needs. 
+
+The production build is based on Webpack2 bundling pipeline.
 
 Versions are always changing so this project works for the following versions.
 
